@@ -23,6 +23,11 @@ pip3 install <package name>
 
 You will also need a copy of chromedriver which can be found [here](https://chromedriver.chromium.org/downloads).
 
+If using an Apple Silicon Chip / ARM, name the file  **`chromedriver`**
+
+if using Intel / x86, name the file  **`chromedriver_intel`**
+
+Save this file in the root directory of this project.
 ## Usage
 
 From your terminal, run the following commands.
