@@ -1,0 +1,6 @@
+.DS_store
+__pycache__/
+ca.crt
+chromedriver
+chromedriver_intel
+
